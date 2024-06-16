@@ -24,3 +24,5 @@ print('{:.8f}'.format(sqrt_binary(n,error)))
 print('{:.8f}'.format(math.sqrt(n)))
 
 ```
+#實作
+!影像](https://github.com/heart1beat/python_final/blob/main/python_final_png.png)
